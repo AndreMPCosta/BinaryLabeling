@@ -1,0 +1,6 @@
+Conetividade: 8
+Objecto		Área	  Cooordenadas do centróide	  Perímetro	   Factor de forma
+				cLin	cCol
+|1|		|9|		|2.2|	|2.0|		   |10.2|		|11.0|
+|2|		|5|		|2.8|	|6.6|		   |8.2|		|7.6|
+|3|		|16|		|7.1|	|4.5|		   |23.3|		|8.6|
